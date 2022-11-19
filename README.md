@@ -1,12 +1,13 @@
 # IBM-Project-14434-1659585666
 Machine Learning based Vehicle Performance Analyzer
-# IBM-Project-14434-1659585666
-Machine Learning based Vehicle Performance Analyzer
 
 Team Members:
 MUSHARRAF.U -- ROLL NO: 310119104701 -- DEPT: CSE
+
 HARI VIGNESH.K -- ROLL NO: 310119104303 -- DEPT: CSE
+
 NIRMAL.AV -- ROLL NO: 310119104302 -- DEPT: CSE
+
 NAVEEN.KS -- ROLL NO:310119104054 --DEPT: CSE
 
 Overview:
