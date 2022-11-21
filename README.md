@@ -33,8 +33,6 @@ https://user-images.githubusercontent.com/104258608/203010361-04c2f8c7-99ae-486c
 # 🔌 Commits
  [Click here](https://github.com/IBM-EPBL/IBM-Project-14434-1659585666/graphs/commit-activity)
  
- # How to Reach Us
- [Mail Us](nirmalnimmyav@gmail.com)
 
 
 
