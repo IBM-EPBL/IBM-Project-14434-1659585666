@@ -3,13 +3,13 @@ Machine Learning based Vehicle Performance Analyzer
 
 Team Members:
 
-NIRMAL.AV -- ROLL NO: 310119104302 -- DEPT: CSE -LEADER [Github Link](https://github.com/NirmalNimmy23)
+NIRMAL.AV -- ROLL NO: 310119104302 -- DEPT: CSE -LEADER  [Github Link](https://github.com/NirmalNimmy23)
 
-MUSHARRAF.U -- ROLL NO: 310119104701 -- DEPT: CSE
+MUSHARRAF.U -- ROLL NO: 310119104701 -- DEPT: CSE [Github Link](https://github.com/Musharraf-U)
 
-HARI VIGNESH.K -- ROLL NO: 310119104303 -- DEPT: CSE
+HARI VIGNESH.K -- ROLL NO: 310119104303 -- DEPT: CSE  [Github Link](https://github.com/HariVicky0707)
 
-NAVEEN.KS -- ROLL NO:310119104054 --DEPT: CSE
+NAVEEN.KS -- ROLL NO:310119104054 --DEPT: CSE  [Github Link](https://github.com/ksnavee)
 
 ![ryking-uploads-xvmKejpGjRs-unsplash](https://user-images.githubusercontent.com/104258608/202999938-31b22c7a-a6bd-4842-81a6-6c181f8ea37c.jpg)
 
