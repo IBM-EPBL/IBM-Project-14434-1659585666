@@ -11,7 +11,7 @@ HARI VIGNESH.K -- ROLL NO: 310119104303 -- DEPT: CSE  [Github Link](https://gith
 
 NAVEEN.KS -- ROLL NO:310119104054 --DEPT: CSE  [Github Link](https://github.com/ksnavee)
 
-![ryking-uploads-xvmKejpGjRs-unsplash](https://user-images.githubusercontent.com/104258608/202999938-31b22c7a-a6bd-4842-81a6-6c181f8ea37c.jpg)
+![20221121_153450_0000](https://user-images.githubusercontent.com/104258608/203023150-663fc68c-9186-4f1c-91ad-ce9618d8afad.jpg)
 
 
 # 📓 Overview:
