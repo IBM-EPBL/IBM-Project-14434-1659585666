@@ -27,7 +27,11 @@ the prediction engine and engine management system.
 # 📽️ Demo Video
 https://user-images.githubusercontent.com/104258608/203010361-04c2f8c7-99ae-486c-893e-2e3c74a99f11.mp4
 
-# [Contributors](https://github.com/IBM-EPBL/IBM-Project-14434-1659585666/graphs/contributors)
+# ❇️ Contributors data
+ [Click here](https://github.com/IBM-EPBL/IBM-Project-14434-1659585666/graphs/contributors)
+ 
+# 🔌 Commits
+ [Click here](https://github.com/IBM-EPBL/IBM-Project-14434-1659585666/graphs/commit-activity)
 
 
 
